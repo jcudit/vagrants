@@ -1,0 +1,1 @@
+{{ (servers.items()|length / 2)|round(0, 'ceil')|int }}
